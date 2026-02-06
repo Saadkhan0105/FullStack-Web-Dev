@@ -8,3 +8,4 @@ HTML uses "markup" to annotate text, images, and other content for display in a 
 and many others.
 - An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by `< and >`. 
 - The name of an element inside a tag is case-insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the `<title>` tag can be written as `<Title>`, `<TITLE>`, or in any other way. However, the convention and recommended practice is to write tags in lowercase.
+
